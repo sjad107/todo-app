@@ -1,4 +1,4 @@
-# Tod0-App using react with typescript
+# Todo-App using react with typescript
 
 This project was built using react and typescript, redux for state management, MUI for theming and styling, i18next for internationalization, and React-Hook-Form.
 
